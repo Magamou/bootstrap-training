@@ -73,3 +73,4 @@ const myChart2 = new Chart(ctx2, {
 $(document).ready(function() {
     $('#example').DataTable();
 } );
+
